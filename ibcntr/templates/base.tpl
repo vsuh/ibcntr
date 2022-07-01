@@ -112,7 +112,7 @@
         <div style="position:fixed; bottom:0;min-width: 100%">
             <div class="row align-items-end">
                 <div class="col float-md-start ">
-                    <a href=https://www.moscollector.ru>АО Москоллектор</a>
+                    <a href="https://github.com/vsuh/ibcntr.git">github</a>
                     &nbsp;<span style='color:gray;'>|</span>&nbsp;
                     Страница создана с использованием <a
                         href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap5</a>
